@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1541883092 source:/home/julianna/Документы/solar system/main.cpp
+1543335113 source:/home/julianna/Документы/solar system/main.cpp
 	<iostream>
 	<stdio.h>
 	<string.h>
 	<bits/stdc++.h>
 	<GL/glut.h>
+	<IL/il.h>
+	<IL/ilut.h>
+	<IL/ilu.h>
 
